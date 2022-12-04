@@ -1,0 +1,17 @@
+## Folder
+admin/
+build/
+dist/
+public/
+node_modules/
+
+## System files
+.vscode
+.cache
+.git
+.svn
+.hg
+.idea
+
+## Config files
+package-lock.json
